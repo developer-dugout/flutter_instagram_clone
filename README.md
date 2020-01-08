@@ -6,25 +6,25 @@ Be sure to ask for help in the comments if you need any help. Suggestions for fu
 
 Flutter is an SDK owned by Google to create applications for #AndroidandIOS using a single codebase. Flutter uses the Dart programming language (also owned by Google). Flutter was in alpha when I released this video, so things might still change a bit. But the SDK is already mature enough to write some cool apps!
 
-1-  Login and Signup ui design ->(2)
+1-  Login and Signup ui design (2)
 3-  Firebase Connectivity Android + IOS
-4-  Login and Signup with Firebase ->(5)
-6-  Bottom Navigation Bar Styling ->(7)
-8-  Styling Profile Activity ->(9)
-10- Editing Profile Activity ->(11,12)
-13- Change Profile Picture ->(14)
-15- Save Profile Picture in Firebase ->(16)
+4-  Login and Signup with Firebase (5)
+6-  Bottom Navigation Bar Styling (7)
+8-  Styling Profile Activity (9)
+10- Editing Profile Activity (11,12)
+13- Change Profile Picture (14)
+15- Save Profile Picture in Firebase (16)
 17- Create Search Bar ->(18)
 19- Create Profile Search Bar 
 20- Create Post Activity ->(21,22)
-23- Create Text Edit Post Activity ->(24)
-25- Code For Follow & Unfollow Profile ->(26,27)
-28- Setup Node.js for follow/unfollow ->(29)
-30- Follower Post Activity wall ->(31)
-32- Follower Profile Activity wall ->(33)
+23- Create Text Edit Post Activity (24)
+25- Code For Follow & Unfollow Profile (26,27)
+28- Setup Node.js for follow/unfollow (29)
+30- Follower Post Activity wall (31)
+32- Follower Profile Activity wall (33)
 34- Post a Comment on Posts 
 35- Liking Posts Widget create
-36- News Feed Activity for Posts
+36- News Feed Activity for Posts 
 
 #### 3. Setup the firebase app
 
